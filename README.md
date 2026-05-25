@@ -31,7 +31,7 @@ Users can parameterize the algorithm (Initial Temperature, Alpha, Gold Limit) an
 
 ### 2. Results & Analysis
 The output window displays the best found item build along with their icons and technical plots showing the temperature decay and objective function convergence.
-<img width="898" height="1027" alt="Image" src="https://github.com/user-attachments/assets/8e590689-fc36-4772-9017-71895554ad34" />
+<img width="1294" height="1029" alt="Image" src="https://github.com/user-attachments/assets/9142ee4d-7fe8-4c1f-80d8-6637956549c4" />
 
 ---
 
