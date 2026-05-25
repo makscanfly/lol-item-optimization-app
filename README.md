@@ -4,7 +4,7 @@
 ## Authors
 This project was developed by a two-person team with responsibilities split on:
 - core optimization algorithm (Simulated Annealing) and the Graphical User Interface (GUI).
-- scraping data preparation and creating objective function.
+- web scraping, data preparation and designing objective function.
 
 ---
 
@@ -27,11 +27,11 @@ The application takes into account:
 
 ### 1. Configuration Window
 Users can parameterize the algorithm (Initial Temperature, Alpha, Gold Limit) and select the champion composition of the match.
-
+<img width="898" height="1027" alt="Image" src="https://github.com/user-attachments/assets/af6f7151-94c6-471f-af2e-628bee7307db" />
 
 ### 2. Results & Analysis
 The output window displays the best found item build along with their icons and technical plots showing the temperature decay and objective function convergence.
-
+<img width="898" height="1027" alt="Image" src="https://github.com/user-attachments/assets/8e590689-fc36-4772-9017-71895554ad34" />
 
 ---
 
@@ -48,7 +48,7 @@ The project requires Python 3.10+ and the libraries listed in the `requirements.
 2.  Run the application:
     Navigate to the project root directory and execute:
     ```bash
-    python src/main_app.py
+    python src/gui_app.py
     ```
 
 ---
